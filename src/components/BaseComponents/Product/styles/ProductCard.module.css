@@ -1,0 +1,16 @@
+.title {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.store_name {
+    display: inline-block;
+    font-size: 16px;
+    color: #6d6d6d;
+    margin: 10px 0 25px 0;
+}
+
+.wrapper {
+    display: inline-block;
+    margin-right: 110px;
+}

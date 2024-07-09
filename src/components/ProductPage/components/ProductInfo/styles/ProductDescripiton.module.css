@@ -1,0 +1,25 @@
+.wrapper {
+    margin-left: 170px;
+}
+
+.title {
+    font-size: 22px;
+}
+
+.store_name {
+    color: #6D6D6D;
+    margin: 25px 0;
+}
+
+.product_description {
+    max-width: 473px;
+}
+
+.price_cart_wrapper {
+    display: flex;
+    margin-top: 55px;
+}
+
+.section_title {
+    margin-right: 95px;
+}

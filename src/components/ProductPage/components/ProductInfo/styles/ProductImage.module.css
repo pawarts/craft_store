@@ -1,0 +1,23 @@
+.wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poster {
+    width: 400px;
+    height: 300px;
+    background: #d9d9d9d9;
+}
+
+.selector_buttons_image {
+    margin-top: 20px;
+}
+
+.selector_button {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    margin-right: 15px;
+}

@@ -1,0 +1,9 @@
+.wrapper {
+    display: inline-grid;
+    grid-template-columns: 162px 1fr;
+}
+
+.name_type {
+    font-size: 16px;
+    font-weight: 600;
+}

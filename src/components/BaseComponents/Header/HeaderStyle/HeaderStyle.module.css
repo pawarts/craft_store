@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+
+    padding: 65px 0 0 65px;
+}
+
+.cart_account_wrapper {
+    margin-left: 135px;
+}

@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+}
+
+.regular_text {
+    margin-right: 60px;
+    font-size: 20px;
+}
+
+.cart_button_wrapper {
+    display: flex;
+}
